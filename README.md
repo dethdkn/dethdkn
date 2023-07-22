@@ -5,6 +5,7 @@
 - 🌎 Brazilian weeb
 - 🧑‍💼 Currently coding for [CBPF](https://cbpf.br)
 - 👨‍💻 I like coding vue & nuxt things
+-  <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1382330/0525c9b0fa51969f11c7efa0a9cf93fce001a146.png" alt="Phantom Thieves" width="18"> Persona fan
 
 
 # Languages & Technology
