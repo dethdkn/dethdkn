@@ -10,5 +10,5 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dethdkn&theme=vue-dark&hide_border=true" alt="DethDKN Github Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dethdkn&theme=vue-dark" alt="DethDKN Github Stats"/>
 </p>
