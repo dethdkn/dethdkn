@@ -8,10 +8,3 @@
     <a href="https://rosa.dev.br/blog">Blog</a>
   </samp>
 </p>
-<br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dethdkn&theme=tokyonight" alt="DethDKN Github Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dethdkn&theme=tokyonight&layout=compact" alt="DethDKN Github Stats"/>
-</p>
